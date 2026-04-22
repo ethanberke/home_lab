@@ -4,6 +4,10 @@ This is my personal homelab that I’ve been building out to get more hands-on e
 
 ---
 
+![Screenshot](./data_rack.jpg)
+
+---
+
 ## What I’m Running
 
 - **Switch:** Ubiquiti Switch Lite 8  
