@@ -53,7 +53,7 @@ The Proxmox hosts are where I experiment with different services, containers, an
 ---
 
 ## What I Want to Add Next
-
+- NAS, this is my next priority!
 - Monitoring (Prometheus / Grafana)
 - Automated backups for VMs and containers
 - VLANs + better network segmentation
