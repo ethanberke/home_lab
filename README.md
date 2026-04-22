@@ -29,7 +29,7 @@ The Proxmox hosts are where I experiment with different services, containers, an
 
 ---
 
-## 🔧 Tech I’m Using
+## Tech I’m Using
 
 - Proxmox VE  
 - Pi-hole & Raspberry Pi 5
